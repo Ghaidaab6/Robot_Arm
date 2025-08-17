@@ -1,6 +1,6 @@
 # Robot_Arm
 
-🤖 Robot Arm Control Web Panel
+🤖 Robot Arm Control Panel
 ----
 This project is a simple web-based control panel for a robot arm.
 It allows you to:
